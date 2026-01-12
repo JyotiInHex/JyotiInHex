@@ -43,23 +43,6 @@ I am a **Full-Stack Developer** and **UI/UX Designer** who bridges the gap betwe
 
 ---
 
-## 📊 Performance Metrics
-
-<div align="center">
-  <a href="https://github.com/JyotiInHex">
-    <img src="https://github-readme-stats.vercel.app/api?username=JyotiInHex&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
-  </a>
-  
-  <a href="https://github.com/JyotiInHex">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JyotiInHex&theme=tokyonight&hide_border=true" height="180" alt="Streak Stats" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JyotiInHex&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-</div>
----
-
 ## 🌐 Let's Connect
 
 <div align="left">
