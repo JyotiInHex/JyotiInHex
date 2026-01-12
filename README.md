@@ -4,83 +4,79 @@ Full-Stack Developer & UI/UX Designer building scalable, system-driven digital p
 </h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00E0FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;UI%2FUX+Designer;MERN+%7C+Next.js+%7C+Node.js;Product+%26+System+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00E0FF&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;UI%2FUX+Designer;MERN+%7C+Next.js+%7C+Node.js;Product+%26+System+Builder" />
 </div>
 
 ---
 
 ## 🧠 About Me
 
-I’m a **full-stack developer and UI/UX designer** focused on building **real-world products**, not demo apps.
+I’m a **full-stack developer and UI/UX designer** focused on building **production-ready digital systems**, not demo projects.
 
-My work sits at the intersection of:
-- clean, maintainable frontend
-- scalable backend architecture
-- practical authentication & authorization
-- thoughtful UI/UX that doesn’t fatigue users
+I specialize in:
+- clean, maintainable frontend architecture
+- scalable backend systems
+- authentication, authorization, and role-based access
+- UI/UX that stays usable as features grow
 
-I care deeply about **system behavior under real usage** — permissions, edge cases, performance, and long-term maintainability.
-
-Currently building **Porinoi**, a modern Assamese matchmaking platform with real business logic, not surface-level features.
+I care about **how systems behave under real users** — edge cases, misuse, performance, and long-term maintainability.
 
 ---
 
-## 🧭 Engineering Philosophy
+## 🧭 How I Think & Build
 
-- **Systems > Screens** — UI is important, but logic lasts longer  
-- **Clarity over cleverness** — readable code scales better than smart hacks  
-- **Ship usable v1s** — perfection comes after real users  
-- **Security is design, not a plugin** — auth, roles, and permissions come first  
+- **Systems > Screens** — logic outlives UI trends  
+- **Clarity over cleverness** — readable code scales  
+- **Ship usable v1s** — real users expose real problems  
+- **Security is architectural** — not an afterthought  
 
-If a feature can’t survive misuse, it’s not finished.
+If a feature breaks under misuse, it’s unfinished.
 
 ---
 
 ## 🚀 What I’m Doing Now
 
-- 🔭 Building **full-stack web applications** with production-style architecture
-- 🧩 Designing **scalable UI/UX systems** for growing products
-- 🌱 Learning **advanced JavaScript, backend system design, and Python for AI**
-- ⚙️ Working on **payments, entitlements, chat systems, and auth flows**
-- 💬 Ask me about **React, Next.js, Node.js, MongoDB, UI/UX, system design**
+- 🔭 Building **full-stack web applications** with real business logic  
+- 🧩 Designing **scalable UI/UX systems** for evolving products  
+- 🌱 Learning **advanced JavaScript, backend system design, and Python for AI**  
+- ⚙️ Working on **payments, entitlements, chat systems, and auth flows**  
+- 💬 Ask me about **React, Next.js, Node.js, MongoDB, system design**  
 - 📫 Reach me at **paragjyotidasofficial@gmail.com**
 
 ---
 
-## 🧱 Flagship Projects
+## 🧱 Selected Work & Focus
 
-### 🔹 Porinoi — Assamese Matrimony Platform
-**Focus:** matchmaking logic, user permissions, boosts, payments, secure chat  
-**Stack:** Next.js · Node.js · MongoDB · TailwindCSS  
-**Goal:** culturally focused, scalable, abuse-resistant matchmaking system
-
-### 🔹 Kharcha Khata — Expense & Money Management
-**Focus:** structured data, clarity, ad-free experience  
-**Goal:** practical finance tracking without visual noise or dark patterns
-
-I’m interested in products that **reduce chaos, prevent misuse, and scale cleanly**.
+- **Product platforms** (SaaS-style architecture)
+- **Matchmaking & filtering logic**
+- **Payments & subscriptions**
+- **Secure chat & real-time systems**
+- **Admin dashboards & internal tools**
+- **Clean UI systems that scale without redesigns**
 
 ---
 
-## 🛠 Core Tech Stack (What I Actually Use)
+## 🛠 Core Stack (What I Actually Use)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,typescript,tailwind,figma,git,vscode" />
+  <img height="45" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,typescript,tailwind,figma,git,vscode" />
 </div>
 
-**Also experienced with:**  
-PHP (PDO), MySQL, REST APIs, token-based auth, role-based access control
+### Also Experienced With
+<div align="center">
+  <img height="45" src="https://skillicons.dev/icons?i=php,mysql,firebase,prisma,redux,postman,aws,nginx,docker" />
+</div>
 
 ---
 
-## 🧩 What I’m Comfortable Designing & Building
+## 🧩 Comfortable Designing & Implementing
 
-- Auth systems (JWT, roles, status gating)
-- Payment flows (subscriptions, entitlements, expiry logic)
-- Matchmaking & filtering logic
-- Real-time chat (Socket.io – design first, scale later)
-- Admin panels & internal tools
-- UI systems that grow without redesigning everything
+- JWT-based auth & role/status gating
+- Subscription & entitlement systems
+- Matchmaking and recommendation logic
+- Real-time communication (Socket.io)
+- REST APIs & backend architecture
+- UI systems with long-term maintainability
 
 ---
 
@@ -110,5 +106,3 @@ PHP (PDO), MySQL, REST APIs, token-based auth, role-based access control
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JyotiInHex&layout=compact&theme=one_dark_pro" />
 </p>
-
-
