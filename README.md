@@ -1,102 +1,125 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F4EA45&height=12&section=header" width="100%" alt="">
+
 # PARAG JYOTI DAS
 
-### DEVELOPER  /  UI/UX DESIGNER  /  CREATIVE TECHNOLOGIST
+### FULL-STACK WEB & MOBILE DEVELOPER  ·  UI/UX DESIGNER
 
-**Designing thoughtful interfaces. Building useful digital experiences.**
+**Building full-stack web and mobile apps — from REST APIs to smooth animations — and teaching others to do the same.**
 
-Assam, India · Available for meaningful projects and collaborations
+Barpeta, Assam, India
 
-<p>
-  <a href="mailto:paragjyotidasofficial@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/paragjyoti-das-6b5296257">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://github.com/JyotiInHex">GitHub</a> &nbsp;·&nbsp;
-  <a href="https://instagram.com/pixelnexusui">Instagram</a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:5269e8&height=3&section=header" width="100%" alt="">
+[Email](mailto:paragjyotidasofficial@gmail.com) · [LinkedIn](https://linkedin.com/in/paragjyoti-das-6b5296257) · [GitHub](https://github.com/JyotiInHex) · [Instagram](https://instagram.com/pixelnexusui)
 
 </div>
 
-## PROFESSIONAL PROFILE
+---
 
-Developer and UI/UX designer working across interface design, frontend implementation and application development. Interested in turning ideas into clear, responsive and maintainable digital products.
+<table>
+<tr>
+<td width="57%" valign="top">
 
-Combines a design-led approach to user experience with practical implementation skills across modern web technologies. Particularly interested in creative coding, interactive interfaces, 3D experiences and useful AI-powered applications.
+## WORK & PROJECTS
 
-## CORE COMPETENCIES
+### <img src="https://img.shields.io/badge/2024%20%E2%80%93%20Present-Live%20App-F4EA45?style=flat-square&labelColor=222222" alt="2024 to present, live app">
 
-| Area | Capabilities |
-|:---|:---|
-| **UI/UX & Product Design** | User interfaces, interaction design, design systems, visual hierarchy, prototyping |
-| **Frontend Development** | Responsive interfaces, component-driven UI, modern JavaScript applications, web animation |
-| **Backend Development** | Application logic, API integration, server-side development, database-backed applications |
-| **Creative Development** | Three.js, WebGL concepts, browser-based experiences, Web Audio API |
-| **Product Thinking** | Feature planning, usability, maintainable architecture, end-to-end implementation |
+### Porinoi — Matrimony Platform
 
-## TECHNICAL SKILLS
+**Solo Developer** · [Live project](https://www.porini.com)
 
-**Design & Creative Tools**
+- Built matchmaking logic, user profiles and search filters.
+- Worked with React and Node.js.
+- JWT authentication, protected routes and REST APIs with Express.js.
+- Deployed on Vercel with a custom domain.
 
-Figma · Adobe Photoshop · Adobe Illustrator
+### <img src="https://img.shields.io/badge/Frontend%20Showcase-Live-F4EA45?style=flat-square&labelColor=222222" alt="Frontend showcase, live">
 
-**Frontend**
+### GTA 6 Fan Website
 
-HTML5 · CSS3 · JavaScript · TypeScript · React · Next.js · Tailwind CSS · Redux · Three.js
+**Frontend Showcase** · [Live project](https://gta-6-fan-website.vercel.app/)
 
-**Backend & Databases**
+- Cinematic scroll animations and parallax using GSAP and Framer Motion.
+- Immersive interface with advanced CSS techniques.
+- Built with Next.js.
 
-Node.js · Express · PHP · MongoDB · MySQL · PostgreSQL
+### Resonance — 3D Audio Visualizer
 
-**Development Tools & Infrastructure**
+**Creative Web Experiment** · [Live project](https://jyotiinhex.github.io/static_projects/resonance-3d-audio-visualizer/)
 
-Git · GitHub · GitLab · Postman · VS Code · AWS · Nginx
+- Browser-based audio visualizer with six 3D visualization modes.
+- Local audio playback and microphone input.
+- Built with JavaScript, Three.js and the Web Audio API.
 
-## SELECTED PROJECTS
+### More projects
 
-### 01 — Resonance | 3D Audio Visualizer
+[Browse the full project collection →](https://jyotiinhex.github.io/static_projects/)
 
-**Interactive web experience · Three.js · Web Audio API · JavaScript**
+## EDUCATION
 
-A browser-based audio visualization project that transforms supported audio input into real-time 3D visuals.
+**Bachelor of Computer Applications (BCA)**  
+Pursuing · Full Stack Track
 
-- Six visualization modes: Wave, Bars, Circle, Particles, Sphere and Liquid.
-- Local audio playback and playlist controls.
-- Microphone input.
-- Adjustable sensitivity and rendering quality.
+**Computer Diploma**  
+Completed · Computer Fundamentals & Applications
 
-[Live project](https://jyotiinhex.github.io/static_projects/resonance-3d-audio-visualizer/) · [Source code](https://github.com/JyotiInHex/static_projects/tree/main/resonance-3d-audio-visualizer)
+**Higher Secondary — 12th Pass**  
+Completed
 
-### 02 — More experiments & builds
+</td>
+<td width="43%" valign="top">
 
-A collection of independent interfaces, prototypes and web experiments.
+## AREA OF EXPERTISE
 
-[Explore the project collection](https://jyotiinhex.github.io/static_projects/) · [Browse GitHub repositories](https://github.com/JyotiInHex?tab=repositories)
+<p align="center">
+  <img src="https://img.shields.io/badge/FULL%20STACK-WEB%20DEVELOPMENT-FFF176?style=for-the-badge&labelColor=222222" alt="Full stack web development"><br><br>
+  <img src="https://img.shields.io/badge/REACT-NATIVE%20MOBILE-FFF176?style=for-the-badge&labelColor=222222" alt="React Native mobile"><br><br>
+  <img src="https://img.shields.io/badge/API%20%26%20BACKEND-REST%20SERVICES-ef4444?style=for-the-badge&labelColor=222222" alt="API and backend"><br><br>
+  <img src="https://img.shields.io/badge/MOTION%20%26%20ANIMATION-INTERACTION-FFF176?style=for-the-badge&labelColor=222222" alt="Motion and animation">
+</p>
 
-## CURRENT FOCUS
+## SOFTWARE SKILLS
 
-- Building polished web applications with modern frontend technologies.
-- Improving reusable UI systems and frontend architecture.
-- Exploring Three.js, animation and interactive browser experiences.
-- Applying AI capabilities to practical digital products.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,nodejs,tailwind,mongodb,git,ts,js,express,figma,threejs" alt="React, Next.js, React Native, Node.js, Tailwind CSS, MongoDB, Git, TypeScript, JavaScript, Express, Figma and Three.js">
+</div>
 
-## PROFESSIONAL INTERESTS
+**Frontend**  
+React · Next.js · React Native · JavaScript · TypeScript · Tailwind CSS
 
-Frontend Engineering · UI/UX Design · Design Systems · Creative Coding · Interactive Web · Product Development · Applied AI
+**Backend**  
+Node.js · Express.js · REST APIs · JWT Authentication
+
+**Database & Tools**  
+MongoDB · MySQL · Git · GitHub · Vercel · Figma
+
+**Animation & Creative UI**  
+GSAP · Framer Motion · Three.js
+
+## LANGUAGES
+
+- Assamese — Native
+- English — Fluent
 
 ## CONTACT
 
-Open to discussing web development, interface design, product ideas and collaborative opportunities.
+- **Email:** [paragjyotidasofficial@gmail.com](mailto:paragjyotidasofficial@gmail.com)
+- **LinkedIn:** [Parag Jyoti Das](https://linkedin.com/in/paragjyoti-das-6b5296257)
+- **GitHub:** [@JyotiInHex](https://github.com/JyotiInHex)
+- **Instagram:** [@pixelnexusui](https://instagram.com/pixelnexusui)
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-<a href="mailto:paragjyotidasofficial@gmail.com"><img src="https://img.shields.io/badge/EMAIL-paragjyotidasofficial%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://linkedin.com/in/paragjyoti-das-6b5296257"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/JyotiInHex"><img src="https://img.shields.io/badge/GITHUB-JyotiInHex-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+*I hereby declare that the information above is true to the best of my knowledge.*
 
-<br><br>
+**PARAG JYOTI DAS**
 
-<sub>Parag Jyoti Das · Developer & UI/UX Designer · Assam, India</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F4EA45&height=8&section=footer" width="100%" alt="">
 
 </div>
